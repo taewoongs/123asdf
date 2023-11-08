@@ -31,10 +31,10 @@ github pull request에 변경한 코드를 설명하기 위해서 Chat-GPT를 �
 1. 사용자는 자신이 구현하고자 하는 기능과 발생하고 있는 문제를 직접 입력
 2. 제출된 내용을 바탕으로 문제를 분석하고 해결 방안을 제시하며, 필요한 경우 변경된 코드 제시
 
-### Project schedule
+# Project schedule
 #### 간트차트 사진
 
-### Team roles & development areas
+# Team roles & development areas
 #### 박정수 
 - Front(react) 코드 입력 
 #### 서유상
@@ -45,7 +45,7 @@ github pull request에 변경한 코드를 설명하기 위해서 Chat-GPT를 �
 - gpt api 프롬프트, api 관리
 #### 백엔드(node) : 필요없음 JSON으로 대체
 
-### List of technologies required for executing your project
+# List of technologies
 #### 
 - front
 - html 
