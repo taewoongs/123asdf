@@ -30,7 +30,11 @@ code-inspcetion
 ### ![flowchart](/image/flowchart.jpg)
 flowchart
 - 입력된 코드를 flowchart로 만든 공간입니다. 
-
+### ![pseudo-code](/image/pseudo-code.jpg)
+pseudo-code
+- 입력된 코드를 pseudo-code로 만든 공간입니다. 
+### ![motion](/image/motion.gif)
+Generate
 ## Individual Progress Status
 ### 박정수
 - 기본 작업 레이아웃 UI 제작
