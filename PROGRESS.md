@@ -24,6 +24,13 @@
 ## Project Screenshot
 ### ![AIcodehelper](/image/AI_code_helper.jpg)
 전체 스크린 샷
+### ![code-inspection](/image/code-inspection.jpg)
+code-inspcetion 
+- 입력된 코드가 분석된 공간입니다. 
+### ![flowchart](/image/flowchart.jpg)
+flowchart
+- 입력된 코드를 flowchart로 만든 공간입니다. 
+
 ## Individual Progress Status
 ### 박정수
 - 기본 작업 레이아웃 UI 제작
